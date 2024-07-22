@@ -1,19 +1,20 @@
-This is an example app built using [Subframe](https://subframe.com). It shows a working example of an AI chatbot designed in Subframe.
+This is a sample AI chat app built with [Subframe](https://subframe.com) using the Subframe Next.js starter kit, the Subframe AI chat template, the OpenAI API, and the Vercel AI SDK. 
 
 ## Getting Started
 
-First, install dependencies:
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-And then run the project:
+Add your OpenAI API key to your environment:
+```bash
+export OPENAI_API_KEY=your-api-key
+```
+
+Run the project:
 
 ```bash
 npm run dev
 ```
-
-## Learn More
-
-Once running, you can Install Subframe locally by "syncing" Subframe with your Starter Kit. This is achieved by running the Subframe [Sync Command](https://app.subframe.com/library?component=installation)
