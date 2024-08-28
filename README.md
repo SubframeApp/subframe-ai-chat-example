@@ -2,8 +2,8 @@
 
 **A simple AI chat app** built with Subframe using the following:
 
-- [Subframe Next.js / Tailwind starter kit](https://github.com/SubframeApp/subframe-nextjs-starter-kit)
 - Subframe's [AI chat template](https://www.subframe.com/templates/ai-chat)
+- [Subframe Next.js / Tailwind starter kit](https://github.com/SubframeApp/subframe-nextjs-starter-kit)
 - [OpenAI API](https://platform.openai.com/)
 - [Vercel AI SDK](https://sdk.vercel.ai/)
 
